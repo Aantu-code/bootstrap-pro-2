@@ -1,9 +1,44 @@
-@media screen and (max-width:1420px) {
-   
+
+
+@media screen and (min-width:1200px) {
+ .subtitle {
+	font-size: 36px;
+	
+} 
+.subtitle span{
+    display: block;
+}
+.slide-title-2{
+    font-size: 32px;
 }
 
-@media screen and (max-width:1024px) {
-    
+.btn {
+margin-right: 15px;
+margin-left: 15px;
+height: 58px;
+margin-top: 20px;
+
+}
+.slide-title h2 {
+	
+	font-size: 48px;
+}
+.single-slide{
+	padding-top: 82px;
+padding-bottom: 62px;
+}
+.form-button {
+	display: initial;
+	
+}
+.single-slide.slider-two .btn {
+	width: 50%;
+}
+.form-text p {
+	font-size: 14px;
+	
+	
+}
 }
 @media screen and (max-width:768px) {
         
